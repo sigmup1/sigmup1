@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sigmup1
+- 👀 I’m interested in learning Java
+- 🌱 I’m currently learning Java
